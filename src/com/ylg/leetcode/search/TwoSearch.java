@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @DESCRIPTION:
  * @DATE: 2020/7/30 15:51
  */
-public class twosub {
+public class TwoSearch {
     public static void main(String[] args) {
         int []nums = {2,3, 5};
         System.out.println(search(nums, 5));

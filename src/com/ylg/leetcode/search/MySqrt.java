@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
  * @DESCRIPTION:
  * @DATE: 2020/7/30 16:11
  */
-public class pingfanggen {
+public class MySqrt {
 
     public static void main(String[] args) {
         System.out.println(binarySearch(4));
