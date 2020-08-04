@@ -1,4 +1,4 @@
-package com.ylg.leetcode.search;
+package com.ylg.leetcode;
 
 import java.nio.charset.Charset;
 import java.util.Base64;
